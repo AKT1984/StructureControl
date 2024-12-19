@@ -1,0 +1,9 @@
+[
+  {
+    "modid": "structurecontrol",
+    "name": "Structure Control",
+    "description": "Allows changing which structures will generate in the world",
+    "version": "1.0",
+    "mcversion": "1.6.4"
+  }
+]
